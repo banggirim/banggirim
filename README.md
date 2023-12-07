@@ -1,4 +1,13 @@
-### Hi there 👋
+### 낭만있는 개발자 👋
+
+소속 : 영남이공대학교
+
+
+학과 :**소프트웨어콘텐츠과**
+
+관심분야:백엔드,웹,앱
+
+
 
 <!--
 **banggirim/banggirim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
